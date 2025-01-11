@@ -48,24 +48,20 @@ What is TSRI Arm Cortex-M55 AIoT SoC Design Platform?
 
 https://compedulabs.org/
 
-Welcome to EduLabsHelping academics with interests in Computer Engineering and Informatics, System On Chip, ASIC design, Signal Processing and computing architectures find relevant materials, collaborate, give our students stimulating experiences and improve their learning outcomes.
+Helping academics with interests in Computer Engineering and Informatics, System On Chip, ASIC design, Signal Processing and computing architectures find relevant materials, collaborate, give our students stimulating experiences and improve their learning outcomes.
 
 ---
 ### Launching the global Educational Design Contest 2024/25: Teaching AI on the Edge 
-https://compedulabs.org/news/1/launching-the-global-educational-design-contest-202425-teaching-ai-on-the-edge/
 
-We are pleased to launch our global Education Design Competition with the theme "Teaching AI on the Edge."
-* Mobile and edge devices are deploying new artificial intelligence (AI) applications that will have a transformational impact on society.
-* How can academia prepare the next generation of engineers to leverage the opportunities and address the challenges presented by Edge AI?
+Website: https://compedulabs.org/news/1/launching-the-global-educational-design-contest-202425-teaching-ai-on-the-edge/
+Video: https://www.youtube.com/watch?v=8k9UN-CWVVM
 
----
-#### Video: Launching the Global Educational Design Contest 2024/25: Teaching AI on the Edge!
-https://www.youtube.com/watch?v=8k9UN-CWVVM
-
-* Join us as we kick off an exciting global competition focused on "Teaching AI on the Edge."
-* Run by the University of Southampton and supported by Arm, this competition invites educators worldwide to submit curriculum or instructional materials on Edge AI.
-* The best entries will have the opportunity to obtain sponsorship to attend the ASEE 2025 conference.
-* Don't miss out on this opportunity to showcase your creativity and technical skills!
+We are pleased to launch our global **Education Design Competition** with the theme "Teaching AI on the Edge."
+* Mobile and edge devices are deploying new artificial intelligence (AI) applications that will have a transformational impact on society
+* How can academia prepare the next generation of engineers to **leverage the opportunities** and **address the challenges** presented by Edge AI?
+* Run by the **University of Southampton** and supported by Arm, this competition invites educators worldwide to submit **curriculum** or **instructional materials** on Edge AI.
+* The best entries will have the opportunity to obtain sponsorship to attend the **ASEE 2025 conference**
+* Don't miss out on this opportunity to **showcase your creativity and technical skills!**
 
 #### Competition:
 
@@ -81,7 +77,7 @@ Important Dates:
 * Competition opens: June 25th, 2024
 * 1st Reminder Call for Submissions – 1st September 2024
 * 2nd Reminder Call for Submissions – 1st November 2024
-* Deadline for submissions on EduLabs – 1st February 2025
+* Deadline for submissions on EduLabs – **1st February 2025**
 * 1st round judging – 1st March, 2025
 * 2nd round judging- 1st April, 2025
 * Winners announced – 1st May, 2025
