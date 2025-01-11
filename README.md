@@ -30,6 +30,8 @@ Natcast is a purpose-built, non-profit entity created to operate the National Se
 ## edulabs
 https://edulabs.bot
 
+* Learn and Collaborate through Projects for Science and Technology
+* Engineering Education Resources from the World’s Leading Industry and Academic Partners
 
 ---
 ## Tallgeese AI
