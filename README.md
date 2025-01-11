@@ -6,11 +6,37 @@ https://soclabs.org/
 
 **The Academic Community for Arm based System on Chip design**
 
-SoC Labs is the global academic community for System On Chip development using the Arm based ecosystem. There are various ways SoC Labs can help you, the technology section lists the extensive Arm IP that Arm Academic Access provides free for academic purposes; the design flow section explains the steps needed to develop a SoC design with tools and other support from our Semiconductor Education Alliance partners and other industry organisations.
+* SoC Labs is the **global academic community** for System On Chip development using the **Arm based ecosystem**
+* There are various ways SoC Labs can help you
+  * The **technology section** lists the extensive Arm IP that Arm Academic Access provides free for academic purposes
+  * The **design flow section** explains the steps needed to develop a SoC design with tools and other support from our **Semiconductor Education Alliance partners** and other industry organisations.
+* The core of SoC Labs is **community lead academic SoC design projects**
+  * You can find many examples in the projects section and below you will see the core reusable reference designs the community maintain to simplify and lower the cost of academic SoC design.
+* Feel free to use the resources, use the navigation icons within the pages and navigation scheme at the top of the page.
+* We are an **academic community providing mutual support to each other**, we are happy to hear from you, and look forward to collaborating with you. Just join up and start commenting.
 
-The core of SoC Labs is community lead academic SoC design projects. You can find many examples in the projects section and below you will see the core reusable reference designs the community maintain to simplify and lower the cost of academic SoC design.
+---
+### Reference Design Comparison Table
+https://soclabs.org/reference-design
 
-Feel free to use the resources, use the navigation icons within the pages and navigation scheme at the top of the page. We are an academic community providing mutual support to each other, we are happy to hear from you, and look forward to collaborating with you. Just join up and start commenting.
+<br/>
+<img src="https://github.com/user-attachments/assets/0a9475ee-ecdf-494e-a896-f7e4a0ca27cc" width=1000>
+
+---
+### SoCLabs: nanoSoC
+https://soclabs.org/reference-design/nanosoc
+
+* A simple, low cost, entry level microcontroller SoC extendable for custom accelerators or simple signal processing, ideal for PhD or other students.
+
+---
+### SoCLabs: TSRI Arm Cortex-M55 AIoT SoC Design Platform
+https://soclabs.org/project/tsri-arm-cortex-m55-aiot-soc-design-platform
+
+What is TSRI Arm Cortex-M55 AIoT SoC Design Platform?
+* The Arm Cortex-M55 AIoT SoC design platform is an AIoT subsystem that allows custom SoC designers to integrate their hardware circuits and embedded software for differentiation.
+* The platform is developed by TSRI (Taiwan Semiconductor Research Institute) to support academic research on SoC design. It's built on the Arm Corstone-300 reference package, featuring the Cortex-M55 CPU and Ethos-U55 NPU.
+
+
 
 ---
 ## EduLabs
