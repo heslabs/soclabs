@@ -28,6 +28,9 @@ https://soclabs.org/reference-design/nanosoc
 
 * A simple, low cost, entry level microcontroller SoC extendable for custom accelerators or simple signal processing, ideal for PhD or other students.
 
+<br/>
+<img src="https://github.com/user-attachments/assets/7b04863a-7161-4b99-bec0-68c852781d03" width=350>
+
 ---
 ### SoCLabs: TSRI Arm Cortex-M55 AIoT SoC Design Platform
 https://soclabs.org/project/tsri-arm-cortex-m55-aiot-soc-design-platform
@@ -36,6 +39,8 @@ What is TSRI Arm Cortex-M55 AIoT SoC Design Platform?
 * The Arm Cortex-M55 AIoT SoC design platform is an AIoT subsystem that allows custom SoC designers to integrate their hardware circuits and embedded software for differentiation.
 * The platform is developed by TSRI (Taiwan Semiconductor Research Institute) to support academic research on SoC design. It's built on the Arm Corstone-300 reference package, featuring the Cortex-M55 CPU and Ethos-U55 NPU.
 
+<br/>
+<img src="https://github.com/user-attachments/assets/17807d56-b198-4852-a178-98167a83ec9b" width=450>
 
 
 ---
