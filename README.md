@@ -53,8 +53,8 @@ Helping academics with interests in Computer Engineering and Informatics, System
 ---
 ### Launching the global Educational Design Contest 2024/25: Teaching AI on the Edge 
 
-Website: https://compedulabs.org/news/1/launching-the-global-educational-design-contest-202425-teaching-ai-on-the-edge/
-Video: https://www.youtube.com/watch?v=8k9UN-CWVVM
+* Website: https://compedulabs.org/news/1/launching-the-global-educational-design-contest-202425-teaching-ai-on-the-edge/
+* Video: https://www.youtube.com/watch?v=8k9UN-CWVVM
 
 We are pleased to launch our global **Education Design Competition** with the theme "Teaching AI on the Edge."
 * Mobile and edge devices are deploying new artificial intelligence (AI) applications that will have a transformational impact on society
@@ -93,14 +93,37 @@ https://www.youtube.com/watch?v=fiqxWK_RcfQ
 ### Natcast
 https://natcast.org/
 
-Natcast is a purpose-built, non-profit entity created to operate the National Semiconductor Technology Center (NSTC) consortium, established by the CHIPS and Science Act of the U.S. government.
+* Natcast is a purpose-built, non-profit entity designated to operate the **National Semiconductor Technology Center (NSTC)** by the Department of Commerce.
+* Established by the **CHIPS and Science Act** of the U.S. government, the NSTC is a **public-private consortium** dedicated to **semiconductor R&D** in the United States. 
+
+<br/>
+<img src="https://github.com/user-attachments/assets/a623e8c0-4c57-4988-a802-58fd23de3546" width=650>
 
 ---
-## edulabs
+## edulabs.bot
 https://edulabs.bot
 
 * Learn and Collaborate through Projects for Science and Technology
 * Engineering Education Resources from the World’s Leading Industry and Academic Partners
+
+#### Our Vision
+
+* Your students are embarking on a journey to explore the frontiers of science and technology — and they need your help to pack. EduLabs is here to provide the resources you need to get them to their destination.
+* EduLabs empowers students, teachers, and contributors to learn and share Science and Technology through free cutting-edge STEM resources backed by the Semiconductor Education Aliance. Start the journey today.
+
+ 
+#### EduLabs Background
+* EduLabs is supported by the Semiconductor Education Alliance, a partnership of leading technology companies and universities committed to equipping our future workforce.
+* The expertise of our members helps ensure EduLabs resources are relevant and accessible.
+
+#### Become an EduLabs Contributor
+
+* Are you an educator with a passion for STEM education?
+* Our mission is to showcase the best instructional materials available, and to celebrate the teachers that make learning possible. Without your investment, there’s no next generation of engineers to push forward and make new discoveries.
+* Become an EduLabs Contributor, and join our community
+
+---
+<img src="https://github.com/user-attachments/assets/9bdd93f6-b2f0-4782-bea8-e9527c112607" width=650>
 
 ---
 ## Tallgeese AI
