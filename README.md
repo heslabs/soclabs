@@ -2,9 +2,11 @@
 
 ---
 ## SoCLabs
-https://soclabs.org/
+* https://soclabs.org/
+* The Academic Community for Arm based System on Chip design
 
-**The Academic Community for Arm based System on Chip design**
+<img src="https://github.com/user-attachments/assets/d1e35dbc-0c27-42a8-abd6-0325f29a038e" width=1000>
+<br/><br/>
 
 * SoC Labs is the **global academic community** for System On Chip development using the **Arm based ecosystem**
 * There are various ways SoC Labs can help you
@@ -48,7 +50,10 @@ What is TSRI Arm Cortex-M55 AIoT SoC Design Platform?
 
 https://compedulabs.org/
 
-Helping academics with interests in Computer Engineering and Informatics, System On Chip, ASIC design, Signal Processing and computing architectures find relevant materials, collaborate, give our students stimulating experiences and improve their learning outcomes.
+<img src="https://github.com/user-attachments/assets/c7d16390-e379-4795-b60f-bd61390729bf" width=850>
+<br/><br/>
+
+* Helping academics with interests in Computer Engineering and Informatics, System On Chip, ASIC design, Signal Processing and computing architectures find relevant materials, collaborate, give our students stimulating experiences and improve their learning outcomes.
 
 ---
 ### Launching the global Educational Design Contest 2024/25: Teaching AI on the Edge 
@@ -93,15 +98,18 @@ https://www.youtube.com/watch?v=fiqxWK_RcfQ
 ### Natcast
 https://natcast.org/
 
+<img src="https://github.com/user-attachments/assets/a623e8c0-4c57-4988-a802-58fd23de3546" width=650>
+<br/>
+ 
 * Natcast is a purpose-built, non-profit entity designated to operate the **National Semiconductor Technology Center (NSTC)** by the Department of Commerce.
 * Established by the **CHIPS and Science Act** of the U.S. government, the NSTC is a **public-private consortium** dedicated to **semiconductor R&D** in the United States. 
 
-<br/>
-<img src="https://github.com/user-attachments/assets/a623e8c0-4c57-4988-a802-58fd23de3546" width=650>
 
 ---
 ## edulabs.bot
 https://edulabs.bot
+
+<img src="https://github.com/user-attachments/assets/9bdd93f6-b2f0-4782-bea8-e9527c112607" width=650>
 
 * Learn and Collaborate through Projects for Science and Technology
 * Engineering Education Resources from the World’s Leading Industry and Academic Partners
@@ -122,8 +130,7 @@ https://edulabs.bot
 * Our mission is to showcase the best instructional materials available, and to celebrate the teachers that make learning possible. Without your investment, there’s no next generation of engineers to push forward and make new discoveries.
 * Become an EduLabs Contributor, and join our community
 
----
-<img src="https://github.com/user-attachments/assets/9bdd93f6-b2f0-4782-bea8-e9527c112607" width=650>
+
 
 ---
 ## Tallgeese AI
